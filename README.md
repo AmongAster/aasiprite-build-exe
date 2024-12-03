@@ -1,0 +1,1 @@
+# aasiprite-build-exe
